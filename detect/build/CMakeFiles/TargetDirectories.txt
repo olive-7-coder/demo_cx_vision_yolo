@@ -1,0 +1,3 @@
+C:/Users/cx/Documents/Codex/2026-07-15/gen/detect/build/CMakeFiles/detect.dir
+C:/Users/cx/Documents/Codex/2026-07-15/gen/detect/build/CMakeFiles/edit_cache.dir
+C:/Users/cx/Documents/Codex/2026-07-15/gen/detect/build/CMakeFiles/rebuild_cache.dir
